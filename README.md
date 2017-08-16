@@ -1,0 +1,1 @@
+#A collection of useful GameMaker Studio 2 scripts.
